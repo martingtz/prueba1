@@ -58,8 +58,8 @@ and modify the next:
 
 #Installing
 
-Copy the folder rpi to your Raspberry Pi home folder
-Copy the folders lisandra_receiver and transmitter to your desktop
+Copy the folder rpi to your Raspberry Pi home folder.
+Copy the folders lisandra_receiver and transmitter to your desktop.
 
 
 #Running the tests
