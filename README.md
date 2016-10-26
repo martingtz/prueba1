@@ -1,4 +1,4 @@
-##Wireless sensor network  - WSN
+#Wireless sensor network  - WSN
 
 This module is responsible for the reception 
 and transmission of data between sensors 
@@ -58,7 +58,7 @@ and modify the next:
 
 #Installing
 
-Copy the folder rpi to your Raspberry Pi home folder 
+Copy the folder rpi to your Raspberry Pi home folder
 Copy the folders lisandra_receiver and transmitter to your desktop
 
 
