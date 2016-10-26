@@ -41,7 +41,7 @@ Contents:
 
 
 ##python_utils
-[python_utils](https://github.com/david9106/IS-Repo-Equipo2/tree/master/python_utils)it is a library used for the sole purpose of testing.
+[python_utils](https://github.com/david9106/IS-Repo-Equipo2/tree/master/python_utils) it is a library used for the sole purpose of testing.
 
 
 
