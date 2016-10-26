@@ -52,13 +52,16 @@ To program the Lisandra Microcontrollers you need arduino arduino-1.6.11 on your
 and modify the next:
 
 -boards.txt
+
 -platform.txt
+
 -programmers.txt
 
 
 #Installing
 
 Copy the folder rpi to your Raspberry Pi home folder.
+
 Copy the folders lisandra_receiver and transmitter to your desktop.
 
 
