@@ -10,7 +10,7 @@ so it can be viewed in graphs via internet through
 a web browser.
 
 
-#WSN (Wireless sensor network )
+##WSN (Wireless sensor network )
 The [WSN (Wireless Sensor Network)](https://github.com/david9106/IS-Repo-Equipo2/tree/master/WSN) library is responsible for the reception,
 transmission and adjustment of the information submitted by the senseores.
 It is also responsible for handling battery alerts and shipments to
@@ -21,7 +21,7 @@ Contents:
 * lisandra_transmitter: Module responsible for sending information on measurements made by the sensors
 * [rpi](https://github.com/david9106/IS-Repo-Equipo2/tree/master/WSN/rpi): Module responsible for alerts,processing and sending measurements data to the server
 
-#Appengine
+##Appengine
 The library [appengine](https://github.com/david9106/IS-Repo-Equipo2/tree/master/appengine) the party will serve as a server, take charge
 analyze, decode, store and graph the information submitted by the
 RPI, will also be handling phone alerts if are met
@@ -33,14 +33,14 @@ Contents:
 * [Templates](https://github.com/david9106/IS-Repo-Equipo2/tree/master/appengine/Templates): It contains files and controls that will be displayed in the web browser
 
 
-#3rd party libs
+##3rd party libs
 
 * Twilio, for sending phone messages
 * httplib2 for htttp requests
 * pytz and six.py for Twilio dependencies
 
 
-#python_utils
+##python_utils
 [python_utils](https://github.com/david9106/IS-Repo-Equipo2/tree/master/python_utils)it is a library used for the sole purpose of testing.
 
 
