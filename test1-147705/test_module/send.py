@@ -15,7 +15,7 @@ url = "http://localhost:9080/"
 
 
 if len(sys.argv) >= 2: #Checks if at least 2 params)
-	dict = {"Tipo":"temperatura","Valor":float(sys.argv[1]),"ubicacion":1}
+	dict = {"Tipo":"temperatura","Valor":sys.argv[1],"Ubicacion":1}
 	print('sending please wait...')
 	print(dict)
 	r=send_json_request(url,dict)
